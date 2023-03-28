@@ -1,0 +1,35 @@
+.name-color{
+    padding: 0.5rem;
+    font-size:1.5rem;
+    color: #497de6;
+}
+.job-font{
+    padding: 0.5rem;
+    font-size: 1rem;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #494a4d;
+}
+.nav-link{
+    color: #497de6;
+}
+.container-header{
+    border-bottom: 1px ridge;
+}
+.navbar-expand-sm .navbar-nav .nav-link {
+    color: #212224;
+    padding-inline-start: 1rem;
+    margin: 30px 10px 30px 10px;
+    padding-right: 2rem;
+    padding-left: 0.5rem;
+    align-items: center;
+    
+}
+.empty-color{
+    min-width: 60%;
+    background-color: bisque;
+}
+
+.arrange-container {
+    flex: 1;
+    margin-top: 4rem;
+}
